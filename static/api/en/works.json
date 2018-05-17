@@ -83,6 +83,18 @@
       "description": ["Designing prototypes and the template of the promotional page.", "As a gift from the developer's studio, we prepared a summary of the results for 2017 for the client. On the basis of statistical data, I marked up an interactive map by region, indicating the number of users in each of them. Further, proceeding from the existing design, I assembled a design page layout. The client was pleasantly surprised."],
       "link": ["https://openmedcom.ru/pages/promo", "https://codepen.io/ulyanov2022/pen/eybKxL"],
       "linkHeading": ["Making page: ", "Interactive map: "]
+    },
+    {
+      "id": 8,
+      "url": "mst",
+      "tags": ["Page making"],
+      "image": {
+        "thumb": ["static/img/works/prev/mst.png", "static/img/works/big/mst.png"]
+      },
+      "title": "The site of the company «Bridge building technologies»",
+      "description": ["Page making according to the customer's design.", "MST is a large distributor of products for construction, in particular bridges and reinforced concrete structures. Feature of the project: the block of the multilevel menu which conveniently adapts for smart phones and tablets. The site looks great in all modern browsers, including IE11."],
+      "link": ["https://morecodemore.github.io/mst.online/"],
+      "linkHeading": ["Making page: "]
     }
   ]
 }
